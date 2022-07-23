@@ -24,7 +24,7 @@ logo-dark: "/assets/img/branding/FLAB_full_dark.png"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Friedrice lab # add your name
+author: Friedrice # add your name
 author-pic: friedrice_myself.jpg
 about-author: ""
 
