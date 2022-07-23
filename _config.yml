@@ -5,8 +5,8 @@ permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/FLAB_full.png"
-logo-icon: "/assets/img/branding/MVM-symbol.svg"
-logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
+logo-icon: "/assets/img/branding/FRLAB_LOGO.png"
+logo-icon-SEO: "/assets/img/branding/FRLAB_LOGO.png" # must be a non SVG file
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -33,9 +33,8 @@ email: sixtyfour@yonsei.ac.kr # Add your Email address
 phone: # Add your Phone number
 website: https://friedricelab.tistory.com # Add your website
 linkedin: linkedin # Add your Linkedin handle
-github: https://github.com/friedricelab # Add your Github handle
+github: friedricelab # Add your Github handle
 twitter: '@twitter' # Add your Twitter handle
-bandcamp: bandcamp # Add your Bandcamp username
 stackoverflow: stackoverflow # Add your stackoverflow account
 
 # Newsletter
