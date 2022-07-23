@@ -1,5 +1,5 @@
 # Site settings
-title: FRIEDRICE LAB
+title: F R I E D R I C E _ L A B
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
