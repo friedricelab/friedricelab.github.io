@@ -8,7 +8,7 @@ description: This is my first English article in my blog.
 img: assets/img/posts/20220808/TIMFA.png
 tags: [articles, coding]
 author: Friedricelab
-github:  
+github: Friedricelab
 mathjax: yes
 ---
 
