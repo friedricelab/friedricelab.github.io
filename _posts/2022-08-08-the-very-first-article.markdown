@@ -3,12 +3,12 @@ layout: post
 read_time: true
 show_date: true
 title:  The very first article in this blog
-date:   2022-08-08 13:00:00 -0600
+date:   2022-08-07 12:00:00 -0600
 description: This is my first English article in my blog.
-img: assets/img/posts/20220808/TIMFA.png
+img: posts/20220808/TIMFA.png
 tags: [articles, coding]
 author: Friedricelab
-github: Friedricelab
+github: friedricelab
 mathjax: yes
 ---
 
